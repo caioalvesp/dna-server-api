@@ -1,0 +1,19 @@
+{
+  "name": "beck-end",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "scripts": {
+    "dev": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastify": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.6",
+    "nodemon": "^3.1.7",
+    "typescript": "^5.6.3"
+  }
+}

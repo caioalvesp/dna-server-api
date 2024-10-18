@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Gabinete",
+    "price": 369.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Placa-mãe",
+    "price": 1294.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "CPU",
+    "price": 677.2,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "Memória RAM",
+    "price": 280.0,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "name": "Fonte",
+    "price": 639.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 6,
+    "name": "GPU",
+    "price": 2399.0,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 7,
+    "name": "SSD",
+    "price": 499.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 8,
+    "name": "HDD",
+    "price": 199.9,
+    "image": "https://via.placeholder.com/150"
+  },
+
+  {
+    "id": 9,
+    "name": "CPU Cooler",
+    "price": 259.9,
+    "image": "https://via.placeholder.com/150"
+  }
+]
