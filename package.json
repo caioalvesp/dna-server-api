@@ -2,6 +2,7 @@
   "name": "beck-end",
   "version": "1.0.0",
   "main": "server.ts",
+  "dist": {},
   "scripts": {
     "dev": "",
     "build": "tsc"
