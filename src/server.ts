@@ -1,8 +1,12 @@
 import Fastify from 'fastify';
 import products from './products.json';
+import fastifyCors from '@fastify/cors';
+
 const app = Fastify({
   logger: true
 });
+
+app.register(fastifyCors, {});
 
 app.get('/products', async function handler(request, reply) {
   return reply.send(products);
