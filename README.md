@@ -58,3 +58,11 @@ https://dna-server-api.vercel.app/products
 ```
 
 A API está hospedada e rodando em produção na Vercel e sendo consumida no front.
+
+**Relatório de quantidade de produtos**
+
+```
+https://dna-server-api.vercel.app/report
+```
+
+O endpoint acima retorna um JSON com a contagem de produtos.
