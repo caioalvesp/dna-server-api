@@ -4,7 +4,7 @@
   "main": "server.ts",
   "dist": {},
   "scripts": {
-    "dev": "",
+    "dev": "dev",
     "build": "tsc"
   },
   "author": "",

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "gabinete",
+        "price": 369.99,
+        "image": "https://i.ibb.co/hW7wGt5/gabinete.jpg"
+    },
+    {
+        "id": 2,
+        "name": "placa-mãe",
+        "price": 1294.99,
+        "image": "https://i.ibb.co/t8qr7YH/mobo.webp"
+    },
+    {
+        "id": 3,
+        "name": "cpu",
+        "price": 677.2,
+        "image": "https://i.ibb.co/dcDy9X3/cpu.webp"
+    },
+    {
+        "id": 4,
+        "name": "memória ram",
+        "price": 280.0,
+        "image": "https://i.ibb.co/Z25GpV6/ram.webp"
+    },
+    {
+        "id": 5,
+        "name": "fonte",
+        "price": 639.99,
+        "image": "https://i.ibb.co/D1R1M0s/fonte.webp"
+    },
+    {
+        "id": 6,
+        "name": "gpu",
+        "price": 2399.0,
+        "image": "https://i.ibb.co/ZN97PsH/gpu.webp"
+    },
+    {
+        "id": 7,
+        "name": "ssd",
+        "price": 499.99,
+        "image": "https://i.ibb.co/Wn7rrpr/ssd.jpg"
+    },
+    {
+        "id": 8,
+        "name": "hdd",
+        "price": 199.9,
+        "image": "https://i.ibb.co/fd29Vyw/hdd.webp"
+    },
+    {
+        "id": 9,
+        "name": "cpu cooler",
+        "price": 259.9,
+        "image": "https://i.ibb.co/Rh3w6pp/cpu-cooler.jpg"
+    }
+]
